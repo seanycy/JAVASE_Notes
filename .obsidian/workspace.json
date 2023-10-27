@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f3f1296b1467b1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ff059cec0918590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_运算符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_数据类型与变量.md",
+                "file": "3_运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_数据类型与变量.md",
+                "file": "3_运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_数据类型与变量.md"
+                "file": "3_运算符.md"
               }
             }
           }
@@ -147,9 +168,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dda42b7241fff864",
+  "active": "1ff059cec0918590",
   "lastOpenFiles": [
-    "1_初识JAVA.md",
-    "2_数据类型与变量.md"
+    "3_运算符.md",
+    "2_数据类型与变量.md",
+    "1_初识JAVA.md"
   ]
 }
