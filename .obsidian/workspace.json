@@ -8,39 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dda42b7241fff864",
+            "id": "83dd72c34c0ecc10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_数据类型与变量.md",
+                "file": "4_方法.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f3f1296b1467b1e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1ff059cec0918590",
+            "id": "479eedccd46b0d72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_运算符.md",
+                "file": "作业3讲解.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "29fd023b33c9cbf6",
@@ -107,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_运算符.md",
+                "file": "作业3讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_运算符.md",
+                "file": "作业3讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_运算符.md"
+                "file": "作业3讲解.md"
               }
             }
           }
@@ -168,10 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1ff059cec0918590",
+  "active": "479eedccd46b0d72",
   "lastOpenFiles": [
-    "3_运算符.md",
+    "4_方法.md",
+    "作业3讲解.md",
     "2_数据类型与变量.md",
+    "3_运算符.md",
+    "二进制序列获取思路.md",
     "1_初识JAVA.md"
   ]
 }
