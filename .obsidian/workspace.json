@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "479eedccd46b0d72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "作业3讲解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "作业3讲解.md",
+                "file": "4_方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "作业3讲解.md",
+                "file": "4_方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "作业3讲解.md"
+                "file": "4_方法.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "479eedccd46b0d72",
+  "active": "83dd72c34c0ecc10",
   "lastOpenFiles": [
-    "4_方法.md",
     "作业3讲解.md",
+    "4_方法.md",
     "2_数据类型与变量.md",
     "3_运算符.md",
     "二进制序列获取思路.md",
