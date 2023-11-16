@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56287ece48f54ad3",
+        "id": "e4a723171c3999b6",
         "type": "tabs",
         "children": [
           {
-            "id": "83dd72c34c0ecc10",
+            "id": "c5bdac77b79b5a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_方法.md",
+                "file": "4_方法与数组.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "29fd023b33c9cbf6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_方法.md",
+                "file": "4_方法与数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_方法.md",
+                "file": "4_方法与数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_方法.md"
+                "file": "4_方法与数组.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,12 +148,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "83dd72c34c0ecc10",
+  "active": "c5bdac77b79b5a29",
   "lastOpenFiles": [
-    "作业3讲解.md",
-    "4_方法.md",
-    "2_数据类型与变量.md",
+    "作业4_方法与递归.md",
+    "4_方法与数组.md",
     "3_运算符.md",
+    "2_数据类型与变量.md",
+    "2023-11-16.md",
+    "作业3讲解.md",
     "二进制序列获取思路.md",
     "1_初识JAVA.md"
   ]
